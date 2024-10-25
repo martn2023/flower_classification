@@ -4,9 +4,7 @@ I've held leadership roles in numerous VC-backed tech startups, but:
   - I have no CS degree
   - have never undergone a coding bootcamp
   
-After building some CRUD web apps and ETL pipelines, I'm upskilling in __Applied ML Engineering__.
-
-- An ex-Google dev showed me an industry standard ML book [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646) by Aurelien Geron:
+After building some CRUD web apps and ETL pipelines, I'm upskilling in __Applied ML Engineering__. An ex-Google dev showed me an industry standard ML book [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646) by Aurelien Geron:
 
 | CHAPTER | FOUNDATIONAL PROJECT         | TECH/MODEL USED                   | STATUS                  |
 |---------|------------------------------|-----------------------------------|-------------------------|
@@ -23,8 +21,8 @@ After building some CRUD web apps and ETL pipelines, I'm upskilling in __Applied
 <br>
 
 # II. What is this?
-This project is less of a deliverable for others and more of a forcing function for me to understand
-- the hierarchy of ML tactics
+This project is less of a deliverable for others and more of a forcing function for me to understand:
+- the hierarchy of ML tactics, specifically supervised learning
 - defining those tactics and understand how they compare/contrast
 - how to optimize
 
@@ -33,16 +31,18 @@ NOTEBOOK IMAGE
 
 
 ### Breakdown of topics, with chronology of presentation in parentheses(n)
-- Regression types
-  - Linear Regression (1)
-  - Polynomial (3)
-  - Regularized Linear Models (5)
-  - Logistics Regression (6)
-- Gradient Descent (2)
-- Learning Curves (4)
-
-
-
+Machine Learning:
+- Supervised Learning
+  - Regression chapter (this repo)
+    - Regression models
+      - - Linear Regression (1)
+        - Polynomial (3)
+        - Regularized Linear Models (5)
+        - Logistics Regression (6)
+      - Gradient Descent (2)
+      - Learning Curves (4)
+  - Classification  
+- Others
 
 
 
