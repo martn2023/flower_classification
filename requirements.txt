@@ -3,3 +3,7 @@ jupyter
 pandas
 
 scikit-learn
+
+numpy
+
+matplotlib
