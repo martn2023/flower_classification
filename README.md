@@ -35,12 +35,12 @@ Machine Learning:
 - Supervised Learning
   - Regression chapter (this repo)
     - Regression models
-      - - Linear Regression (1)
-        - Polynomial (3)
-        - Regularized Linear Models (5)
-        - Logistics Regression (6)
-      - Gradient Descent (2)
-      - Learning Curves (4)
+      - Linear Regression (1)
+      - Polynomial (3)
+      - Regularized Linear Models (5)
+      - Logistics Regression (6)
+    - Gradient Descent (2)
+    - Learning Curves (4)
   - Classification  
 - Others
 
