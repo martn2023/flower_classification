@@ -27,8 +27,8 @@ This project is less of a deliverable for others and more of a forcing function 
 - how to optimize
 
 ### Where do I click?
-NOTEBOOK IMAGE
 
+![files_to_click.png](readme_media%2Ffiles_to_click.png)
 
 ### Breakdown of topics, with chronology of presentation in parentheses(n)
 Machine Learning:
