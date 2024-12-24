@@ -24,13 +24,12 @@ After building some CRUD web apps and ETL pipelines, I'm upskilling in __Applied
 This project is less of a deliverable for others and more of a forcing function for me to understand:
 - the hierarchy of ML tactics, specifically supervised learning
 - defining those tactics and understand how they compare/contrast
-- how to optimize
 
 ### Where do I click?
 
 ![files_to_click.png](readme_media%2Ffiles_to_click.png)
 
-### Breakdown of topics, with chronology of presentation in parentheses(n)
+### Breakdown of topics, with chronology of presentation in parentheses (n)
 Machine Learning:
 - Supervised Learning
   - Regression chapter (this repo)
@@ -43,7 +42,6 @@ Machine Learning:
     - Learning Curves (4)
   - Classification  
 - Others
-
 
 
 
