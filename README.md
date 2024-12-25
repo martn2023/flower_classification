@@ -34,19 +34,23 @@ Machine Learning:
 - Supervised Learning
   - Regression chapter (this repo)
     - Regression models
-      - Linear Regression (1)
-      - Polynomial (3)
-      - Regularized Linear Models (5)
-      - Logistics Regression (6)
-    - Gradient Descent (2)
-    - Learning Curves (4)
+      - Linear Regression (sub-chapter 1)
+      - Polynomial (sub-chapter 3)
+      - Regularized Linear Models (sub-chapter 5)
+      - Logistics Regression (sub-chapter 6)
+    - Gradient Descent (sub-chapter 2)
+    - Learning Curves (sub-chapter 4)
   - Classification  
 - Others
 
 
 
 # V. Major Learnings:
-#### Kahe nat
+#### See Jupyter notebooks
 
 # VI. Potential improvements:
-#### Pro
+#### Data set size
+I'd want thousands, not 150 rows of data for the flowers
+
+#### Method moving from spreadsheets to image recognition
+One of the flowers has a distinct use of yellow. The experiment didn't leverage color i.e. this wasn't an image classification project, and that would have been much more interesting. However, not a big deal because we already tried that with the handwritten digit repo.
