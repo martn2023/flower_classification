@@ -4,7 +4,9 @@ I've held leadership roles in numerous VC-backed tech startups, but:
   - I have no CS degree
   - have never undergone a coding bootcamp
 <br>
-After building some CRUD web apps and ETL pipelines, I'm upskilling in __Applied ML Engineering__. An ex-Google dev showed me an industry standard ML book:<br>
+After building some CRUD web apps and ETL pipelines, I'm upskilling in __Applied ML Engineering__. An ex-Google dev showed me an industry standard ML book:
+[Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646) by Aurelien Geron.
+
 [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.google.com/search?q=tensorflow+hands+on+machine+learning+geron) by Aurelien Geron:<br>
 
 
