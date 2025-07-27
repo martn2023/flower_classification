@@ -12,10 +12,10 @@ After building some CRUD web apps and ETL pipelines, I'm upskilling in __Applied
 | CHAPTER | FOUNDATIONAL PROJECT         | TECH/MODEL USED                   | STATUS                  |
 |---------|------------------------------|-----------------------------------|-------------------------|
 | 2       | Predicting housing prices    | Supervised Learning, Regression   | **Completed/published** |
-| 3       | Handwritten digits           | Image classification              | **Completed/published**  |
-| 4       | Training regression models   | Supervised Learning               | ** **This project** **              |
-| 5       | Classifying data points      | Support Vector Machines (SVM)     | Not Started             |
-| 6       | Tree-based models            | Decision Trees, Random Forests    | Not Started             |
+| 3       | Handwritten digits           | Image classification              | **Completed/published** |
+| 4       | Training regression models   | Supervised Learning               | ** **This project** **  |
+| 5       | Classifying data points      | Support Vector Machines (SVM)     | Skipping                |
+| 6       | Tree-based models            | Decision Trees, Random Forests    | ** **This project** **  |
 | 7       | Combining models             | Ensemble Learning                 | Not Started             |
 | 8       | Reducing dataset complexity  | Dimensionality Reduction          | Not Started             |
 | 9       | Grouping similar data points | Clustering, Unsupervised Learning | Not Started             |
